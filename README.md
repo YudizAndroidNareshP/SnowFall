@@ -12,7 +12,7 @@ Transform your Flutter app into a winter wonderland
 customization
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yudiz-solutions/SnowFall/main/screenshot/snow_fall_banner.gif" alt="Snow Fall Demo" width="300"/>
+  <img src="https://raw.githubusercontent.com/yudiz-solutions/SnowFall/main/screenshot/snow_fall_banner.gif" alt="Snow Fall Demo"/>
 </p>
 
 ---
