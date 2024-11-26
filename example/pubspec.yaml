@@ -17,7 +17,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  snow_fall:
+  snow_fall_animation:
     # When depending on this package from a real application you should use:
     #   snow_fall: ^x.y.z
     # See https://dart.dev/tools/pub/dependencies#version-constraints

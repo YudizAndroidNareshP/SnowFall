@@ -1,13 +1,13 @@
 // File: lib/example/main.dart
 import 'package:flutter/material.dart';
-import 'package:snow_fall/snow_fall.dart';
+import 'package:snow_fall_animation/snow_fall_animation.dart';
 
 void main() {
   runApp(const MyApp());
 }
 
 class MyApp extends StatelessWidget {
-  const MyApp({Key? key}) : super(key: key);
+  const MyApp({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
 }
 
 class SnowFallDemo extends StatefulWidget {
-  const SnowFallDemo({Key? key}) : super(key: key);
+  const SnowFallDemo({super.key});
 
   @override
   State<SnowFallDemo> createState() => _SnowFallDemoState();

@@ -1,6 +1,6 @@
 import 'dart:math';
 import 'package:flutter/material.dart';
-import 'package:snow_fall/src/snow_configuration.dart';
+import 'package:snow_fall_animation/src/snow_configuration.dart';
 
 class Snowflake {
   double x;

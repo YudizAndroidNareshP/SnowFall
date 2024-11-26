@@ -1,4 +1,4 @@
-library snow_fall;
+library snow_fall_animation;
 
 export 'src/snow_fall_widget.dart';
 export 'src/snowflake.dart';

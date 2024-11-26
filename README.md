@@ -4,9 +4,9 @@
 
 Transform your Flutter app into a winter wonderland
 
-[![pub package](https://img.shields.io/pub/v/snow_fall.svg)](https://pub.dev/packages/snow_fall)
-[![likes](https://img.shields.io/pub/likes/snow_fall?logo=flutter)](https://pub.dev/packages/snow_fall)
-[![popularity](https://img.shields.io/pub/popularity/snow_fall?logo=flutter)](https://pub.dev/packages/snow_fall)
+[![pub package](https://img.shields.io/pub/v/snow_fall_animation.svg)](https://pub.dev/packages/snow_fall_animation)
+[![likes](https://img.shields.io/pub/likes/snow_fall_animation?logo=flutter)](https://pub.dev/packages/snow_fall_animation)
+[![popularity](https://img.shields.io/pub/popularity/snow_fall_animation?logo=flutter)](https://pub.dev/packages/snow_fall_animation)
 
 • Realistic snow animations • Custom emoji support • Smooth performance • Easy implementation • Full
 customization
@@ -48,23 +48,23 @@ customization
 
 ### Installation
 
-Add `snow_fall` to your `pubspec.yaml`:
+Add `snow_fall_animation` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  snow_fall: ^1.0.0
+  snow_fall_animation: ^1.0.0
 ```
 
 Or install via command line:
 
 ```bash
-flutter pub add snow_fall
+flutter pub add snow_fall_animation
 ```
 
 ### Basic Usage
 
 ```dart
-import 'package:snow_fall/snow_fall.dart';
+import 'package:snow_fall_animation/snow_fall_animation.dart';
 
 class MyApp extends StatelessWidget {
   @override

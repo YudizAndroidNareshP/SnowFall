@@ -191,7 +191,7 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.99"
-  snow_fall:
+  snow_fall_animation:
     dependency: "direct main"
     description:
       path: ".."

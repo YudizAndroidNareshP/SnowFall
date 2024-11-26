@@ -1,8 +1,8 @@
 import 'dart:async';
 import 'dart:math';
 import 'package:flutter/material.dart';
-import 'package:snow_fall/snow_fall.dart';
-import 'package:snow_fall/src/snow_fall_painter.dart';
+import 'package:snow_fall_animation/snow_fall_animation.dart';
+import 'package:snow_fall_animation/src/snow_fall_painter.dart';
 
 class AccumulatedSnowflake {
   final double x;
