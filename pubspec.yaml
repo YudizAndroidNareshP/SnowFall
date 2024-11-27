@@ -1,6 +1,6 @@
 name: snow_fall_animation
 description: A Flutter plugin that creates beautiful snowfall animations and effects
-version: 0.0.1+1
+version: 0.0.1+2
 homepage: https://github.com/yudiz-solutions/SnowFall
 
 environment:
