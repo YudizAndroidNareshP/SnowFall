@@ -59,7 +59,7 @@ Add `snow_fall_animation` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  snow_fall_animation: ^0.0.1+1
+  snow_fall_animation: ^0.0.1+2
 ```
 
 Or install via command line:
