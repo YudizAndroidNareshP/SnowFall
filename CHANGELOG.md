@@ -1,5 +1,10 @@
-## [0.0.1] - 2024-11-26
+## [0.0.1+2] - 2024-11-27
+* Docs(quality): Update docs
 
+## [0.0.1+1] - 2024-11-27
+* Docs(quality): Update docs and add test coverage
+
+## [0.0.1] - 2024-11-26
 ### Added
 
 - Initial release of Snow Fall plugin

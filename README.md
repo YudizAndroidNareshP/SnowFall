@@ -19,9 +19,10 @@ customization
 
 </div>
 
-## Table of Contents
+# Table of Contents
 
 - [Features](#features)
+- [Demo Examples](#demo-examples)
 - [Getting Started](#getting-started)
     - [Installation](#installation)
     - [Basic Usage](#basic-usage)
@@ -43,6 +44,12 @@ customization
 - 🏔️ Optional snow accumulation at the bottom
 - 🎯 Easy to implement with minimal setup
 - 📱 Works on all Flutter platforms
+
+### Demo Examples
+
+| <img src="https://raw.githubusercontent.com/yudiz-solutions/SnowFall/main/screenshot/screen_1.gif" width="240"/> | <img src="https://raw.githubusercontent.com/yudiz-solutions/SnowFall/main/screenshot/screen_2.gif" width="240"/> | <img src="https://raw.githubusercontent.com/yudiz-solutions/SnowFall/main/screenshot/screen_3.gif" width="240"/> |
+|:----------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------:|
+|                                                  `'Default Snow'`                                                  |                                               `'Christmas Magic'`                                                |                                              `'Winter Wonderland'`                                               |
 
 ## Getting Started
 
@@ -283,4 +290,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ---
 
 ## Visitors Count
+
 <img align="left" src = "https://profile-counter.glitch.me/SnowFall/count.svg" alt ="Loading">

@@ -2,12 +2,39 @@ import 'dart:async';
 import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:snow_fall_animation/snow_fall_animation.dart';
-import 'package:snow_fall_animation/src/accumulated_snowflake.dart';
 import 'package:snow_fall_animation/src/snow_fall_painter.dart';
 
+/// A widget that renders customizable snow fall animation.
+///
+/// This widget creates an animated snow effect that can be customized using
+/// [SnowfallConfig]. The animation supports features like snow accumulation,
+/// wind effects, and custom emoji snowflakes.
+///
+/// Example:
+/// ```dart
+/// SnowFallAnimation(
+///   config: SnowfallConfig(
+///     numberOfSnowflakes: 150,
+///     speed: 1.0,
+///     useEmoji: true,
+///   ),
+/// )
+/// ```
 class SnowFallAnimation extends StatefulWidget {
+  /// The configuration for customizing the snow fall animation.
+  ///
+  /// Use this to control properties like:
+  /// * Number of snowflakes
+  /// * Animation speed
+  /// * Custom emojis
+  /// * Wind effects
+  /// * Accumulation behavior
   final SnowfallConfig config;
 
+  /// Creates a snow fall animation widget.
+  ///
+  /// The [config] parameter can be used to customize the animation properties.
+  /// If not provided, default configuration will be used.
   const SnowFallAnimation({
     super.key,
     this.config = const SnowfallConfig(),
