@@ -2,25 +2,8 @@ import 'dart:async';
 import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:snow_fall_animation/snow_fall_animation.dart';
+import 'package:snow_fall_animation/src/accumulated_snowflake.dart';
 import 'package:snow_fall_animation/src/snow_fall_painter.dart';
-
-class AccumulatedSnowflake {
-  final double x;
-  final double y;
-  final double size;
-  final int emojiIndex;
-  final double rotation;
-  final double alpha;
-
-  AccumulatedSnowflake({
-    required this.x,
-    required this.y,
-    required this.size,
-    required this.emojiIndex,
-    required this.rotation,
-    required this.alpha,
-  });
-}
 
 class SnowFallAnimation extends StatefulWidget {
   final SnowfallConfig config;

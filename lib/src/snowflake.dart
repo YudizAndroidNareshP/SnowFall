@@ -42,12 +42,12 @@ class Snowflake {
       velocity: 1 + random.nextDouble() * 2,
       size: config.enableRandomSize
           ? config.minSnowflakeSize +
-          random.nextDouble() *
-              (config.maxSnowflakeSize - config.minSnowflakeSize)
+              random.nextDouble() *
+                  (config.maxSnowflakeSize - config.minSnowflakeSize)
           : config.minSnowflakeSize,
       alpha: config.enableRandomOpacity
           ? config.minOpacity +
-          random.nextDouble() * (config.maxOpacity - config.minOpacity)
+              random.nextDouble() * (config.maxOpacity - config.minOpacity)
           : config.maxOpacity,
       swing: 0.2 + random.nextDouble() * config.swingRange,
       swingValue: random.nextDouble() * pi * 2,

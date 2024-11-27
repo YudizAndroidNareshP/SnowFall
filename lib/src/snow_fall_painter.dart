@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:snow_fall_animation/snow_fall_animation.dart';
+import 'package:snow_fall_animation/src/accumulated_snowflake.dart';
 
 class SnowPainter extends CustomPainter {
   final List<Snowflake> fallingSnow;
