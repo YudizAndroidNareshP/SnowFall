@@ -1,10 +1,14 @@
-## [0.0.1+2] - 2024-11-27
+## 0.0.1+3
+* Dart Formatting
+* Logo Update
+
+## 0.0.1+2
 * Docs(quality): Update docs
 
-## [0.0.1+1] - 2024-11-27
+## 0.0.1+1
 * Docs(quality): Update docs and add test coverage
 
-## [0.0.1] - 2024-11-26
+## 0.0.1
 ### Added
 
 - Initial release of Snow Fall plugin

@@ -38,7 +38,7 @@ void main() {
       const snowflake = AccumulatedSnowflake(
         x: 100,
         y: 200,
-          size: 10,
+        size: 10,
         emojiIndex: 0,
         rotation: 45,
         alpha: 0.8,
